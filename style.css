@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(rgb(164, 164, 221) 0%, rgb(69, 61, 99));
+}
+
+.header_div
+{
+    background: rgb(115, 112, 153);
+    color:rgb(54, 48, 77);
+}
+
+.main_div button
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    background-color:rgb(115, 112, 153);
+    border-color:  rgb(155, 148, 175);
+    border-radius: 10px;
+    width: 100px;
+    height:30px;
+    color: rgb(54, 48, 77);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(181, 173, 192);
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(62, 57, 85);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(155, 148, 165);
+}
